@@ -1,0 +1,23 @@
+name: Pickup Pulse
+favicon: null
+layout_spectrum: 0.20120738935656846
+typography_spectrum: 0.6801700259093195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.19907382340170443
+  lightness: 0.958862187108025
+  saturation: 0.5267074990551919
+  rhythmicContrast: 0.5817657969892025
+purpose: []
