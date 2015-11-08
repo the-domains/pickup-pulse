@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Why pickup plays the villain.
-datePublished: '2015-11-08T22:19:13.899Z'
-dateModified: '2015-11-08T22:19:00.431Z'
+datePublished: '2015-11-08T22:33:55.239Z'
+dateModified: '2015-11-08T22:33:48.900Z'
 title: Playing the Joker
 sourcePath: _posts/2015-11-07-playing-the-joker.md
 published: true
@@ -34,7 +34,7 @@ This villain branding isn't exaggerated, and is common place in the pickup indus
 * [Vitaly][4] wears a hat with bold white writing, "VILLAIN" across the front.
 * [Justin Wayne][5] will [tell women he loves][6] them as a method of his seduction. (The unspoken caveat: love, but not IN love.)
 * [RSD's Julien Blanc][7] has been banned in various countries and leveraged this on media for viewership.
-* [David Bond][8] exemplifies the Japanophile american who picks up asian girls. 
+* [David Bond][8] exemplifies the Japanophile american who picks up asian girls. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be14c1e3-4689-4658-9d2d-30e6dc2e9d99.jpg)
 
 The prevailing view of the Joker is not much different from the films'. By accepting the RSD world view, [you should view yourself as a god][9]. The sub-communication here is clear.
 
@@ -65,7 +65,6 @@ Effectively it's the Online Dating mindset from the early 2000's. The content it
 For pickup, it's unlikely that this happens any time soon. [It's still weird][13]. [It's still a black sheep][14]. And it's like this because of the Villain perpetuation. Regardless of whether you're with Batman or the Joker, you're still hiding in the shadows. 
 
 With Pickup, there are no white knights.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be14c1e3-4689-4658-9d2d-30e6dc2e9d99.jpg)
 
 [0]: https://www.youtube.com/watch?v=RuzsZ8GyM38
 [1]: www.simplepickup.com
