@@ -3,20 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Why pickup plays the villain.
-datePublished: '2015-11-07T05:29:34.332Z'
-dateModified: '2015-11-07T05:29:23.306Z'
+datePublished: '2015-11-08T22:19:13.899Z'
+dateModified: '2015-11-08T22:19:00.431Z'
 title: Playing the Joker
+sourcePath: _posts/2015-11-07-playing-the-joker.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-07-playing-the-joker.md
-published: true
 url: playing-the-joker/index.html
 _type: Article
 
@@ -60,11 +60,12 @@ A lot of people are willing to cross this line, but a lot arn't. Many men are wi
 
 Should the prevailing attitude of Pickup be a message of positivity this may not be the case. At the time of writing this article, it is.
 
-Effectively it's the Online Dating mindset from the early 2000's. The content itself is good, but "where do we tell our friends we met?" Unlike Online Dating, the [taboo][11] has largely disappeared revealing a [2b+ market][12] after the fog had cleared. Online dating isn't weird now.
+Effectively it's the Online Dating mindset from the early 2000's. The content itself is good, but "where do we tell our friends we met?" However with Online Dating, unlike pickup, the [taboo][11] has largely disappeared revealing a [2b+ market][12]. Online dating just isn't weird now.
 
 For pickup, it's unlikely that this happens any time soon. [It's still weird][13]. [It's still a black sheep][14]. And it's like this because of the Villain perpetuation. Regardless of whether you're with Batman or the Joker, you're still hiding in the shadows. 
 
 With Pickup, there are no white knights.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be14c1e3-4689-4658-9d2d-30e6dc2e9d99.jpg)
 
 [0]: https://www.youtube.com/watch?v=RuzsZ8GyM38
 [1]: www.simplepickup.com
