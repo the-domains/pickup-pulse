@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Why pickup plays the villain.
-datePublished: '2015-11-08T22:33:55.239Z'
-dateModified: '2015-11-08T22:33:48.900Z'
+datePublished: '2015-11-13T18:29:31.159Z'
+dateModified: '2015-11-09T20:55:50.791Z'
 title: Playing the Joker
 sourcePath: _posts/2015-11-07-playing-the-joker.md
 published: true
@@ -25,7 +25,7 @@ Playing the Joker.
 
 There is a divide in pickup. You can be the joker, or be the [batman][0]. The market seems to favor the bag guys here, but what are the repercussions? 
 
-"The Batman" are the rare pickup companies that promote positive self growth, positivity towards women, and posses an overall air of warmth. [Simple Pickup][1] is the obvious example here -- but also companies such as [Instaconnection][2] (an SP clone) and [Eric Disco][3]. Often times you'll come across the matra, "leave the girl better than you found here" within this group.
+"The Batman" are the rare pickup companies that promote positive self growth, positivity towards women, and posses an overall air of warmth. [Simple Pickup][1] is the obvious example here -- but also companies such as [Instaconnection][2] (an SP clone) and [Eric Disco][3]. Often times you'll come across the mantra, "leave the girl better than you found here" within this group.
 
 "The Joker" is not necessarily promoting the antithesis of the Batman, but rather promotes the idea of self growth as the exclusive motivator. These companies intentionally brand themselves as the villain, for various reasons, and have garnished a lot of media attention for doing so -- and by extension, clients. 
 
