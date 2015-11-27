@@ -1,6 +1,6 @@
 name: Pickup Pulse
 favicon: null
-layout_spectrum: 0.26879
+layout_spectrum: 0.88934
 typography_spectrum: 0.87103
 title: Pickup Industry Blog
 cta:
@@ -22,8 +22,8 @@ color:
     - '#979471'
     - '#dfc2ab'
     - '#862838'
-  brandStrength: 0.625
-  lightness: 0.9375
-  saturation: 0.8125
+  brandStrength: 0.1875
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.75
 purpose: []
